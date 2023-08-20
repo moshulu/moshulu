@@ -60,6 +60,7 @@ Please feel free to check out my [website](https://mattdrew.org).
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-6700FF?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Operating System Experience
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -71,6 +72,10 @@ Please feel free to check out my [website](https://mattdrew.org).
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+### Container Technologies
+![Docker](https://img.shields.io/badge/Docker-0094FF?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-FF0000?style=for-the-badge&logo=Podman&logoColor=white)
 
 
 
